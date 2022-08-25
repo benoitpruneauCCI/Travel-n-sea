@@ -4,4 +4,4 @@
 
 -Le site est pour le moment statique mais il aurait vocation à devenir dynamique.
 
--Les icones et images proviennent de la banque d'image gratuite unsplash.com, un gros coup de coeur.
+-Les icones et images proviennent de la banque d'image gratuite unsplash.com, un gros coup de coeur et libre de droit.
